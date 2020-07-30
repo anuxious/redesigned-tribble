@@ -1,0 +1,12 @@
+<span id="a">stepboomz</span>:<span id="b">~</span><span id="c">$</span> cd Code/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">stepboomz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Readme.txt<br/><br/>
+Hello ! , I'm "<span id="k">stepboomz</span>". and <span id="k"> I'm a Web Developer!</span> <!-- sjkfhskjf -->
+
+I am a Software Engineer and independent full-stack Web developer living in Thailand. I mostly work with JavaScript (Angular, VueJs & Node.js), but have also experience with <a href="Python">Python</a>, <a href="PHP">PHP</a>, and others.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>If you have any web development needs, feel free to contact or get to know me a little better.</p>
+
+
+
+
+
+<p>Thanks!</p>
